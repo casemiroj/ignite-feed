@@ -9,7 +9,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://githuib.com/casemiroj.png',
+      avatarUrl: 'https://github.com/casemiroj.png',
       name: 'João Casemiro',
       role: 'Fullstack Developer'
     },
@@ -23,7 +23,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://githuib.com/mcleta.png',
+      avatarUrl: 'https://github.com/mcleta.png',
       name: 'Murillo Casemiro',
       role: 'Estagiário em QA'
     },
